@@ -1,1 +1,1 @@
-[Image of Zerodha landing page](/path/to/image.png)
+[Image of Zerodha landing page](/assests/zerodha-landing.png)
