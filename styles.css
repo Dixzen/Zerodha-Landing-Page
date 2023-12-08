@@ -1,0 +1,41 @@
+body{
+    color: rgb(161, 159, 159);
+    font-family: 'Inter', sans-serif;
+}
+
+nav{
+    box-shadow: 2px 1px 2px #eee;
+    padding: 10px 100px 10px 100px;
+}
+
+.nav-btn:hover{
+    color: rgb(17, 165, 246);
+}
+
+.landing-pic{
+    margin-top: 80px;
+    width: 1000px;
+}
+
+h1{
+    font-size: 45px;
+    margin-bottom: 10px;
+}
+
+h3{
+    font-weight: 400;
+}
+
+.signup-btn{
+    background-color:rgb(33, 33, 233);
+    color: aliceblue;
+    border-radius: 3px;
+    padding: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.signup-btn:hover{
+    background-color: black;
+    color: #eee;
+}
